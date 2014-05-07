@@ -2,7 +2,7 @@
   "name": "commenter",
   "main": "./lib/commenter",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "Atom package for adding newlines within comments",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "readme": "",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "http://github.com/robballou/commenter"
+    "url": "http://github.com/robballou/commenter/issues"
   },
   "homepage": "http://github.com/robballou/commenter"
 }
